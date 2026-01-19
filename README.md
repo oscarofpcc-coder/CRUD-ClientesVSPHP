@@ -17,6 +17,8 @@ Proyecto CRUD de clientes usando:
 - .NET 10 o superior
 - Git
 
+- Crear la Base de datos en MySQL cobranzas_db y ejecutar el script de creación de tabla clientes
+
 ## 
 - Copiar la carpeta crud-clientes a C:\MAMP\htdocs\
 
