@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\MAMP\\htdocs\\ClientesApiMvc\\ApiCobranzas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55DDDAAC-E025-4D22-ABEE-F2B810687635}|ApiCobranzas.csproj|c:\\mamp\\htdocs\\clientesapimvc\\apicobranzas\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55DDDAAC-E025-4D22-ABEE-F2B810687635}|ApiCobranzas.csproj|solutionrelative:repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1BDB1CB-AC65-BC82-B10F-2CE9ADA1154D}|ApiCobranzas.csproj|c:\\mamp\\htdocs\\clientesapimvc\\apicobranzas\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1BDB1CB-AC65-BC82-B10F-2CE9ADA1154D}|ApiCobranzas.csproj|solutionrelative:repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55DDDAAC-E025-4D22-ABEE-F2B810687635}|ApiCobranzas.csproj|c:\\mamp\\htdocs\\clientesapimvc\\apicobranzas\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55DDDAAC-E025-4D22-ABEE-F2B810687635}|ApiCobranzas.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1BDB1CB-AC65-BC82-B10F-2CE9ADA1154D}|ApiCobranzas.csproj|c:\\mamp\\htdocs\\clientesapimvc\\apicobranzas\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1BDB1CB-AC65-BC82-B10F-2CE9ADA1154D}|ApiCobranzas.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55DDDAAC-E025-4D22-ABEE-F2B810687635}|ApiCobranzas.csproj|c:\\mamp\\htdocs\\clientesapimvc\\apicobranzas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55DDDAAC-E025-4D22-ABEE-F2B810687635}|ApiCobranzas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1BDB1CB-AC65-BC82-B10F-2CE9ADA1154D}|ApiCobranzas.csproj|c:\\mamp\\htdocs\\clientesapimvc\\apicobranzas\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1BDB1CB-AC65-BC82-B10F-2CE9ADA1154D}|ApiCobranzas.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55DDDAAC-E025-4D22-ABEE-F2B810687635}|ApiCobranzas.csproj|c:\\mamp\\htdocs\\clientesapimvc\\apicobranzas\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55DDDAAC-E025-4D22-ABEE-F2B810687635}|ApiCobranzas.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1BDB1CB-AC65-BC82-B10F-2CE9ADA1154D}|ApiCobranzas.csproj|c:\\mamp\\htdocs\\clientesapimvc\\apicobranzas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1BDB1CB-AC65-BC82-B10F-2CE9ADA1154D}|ApiCobranzas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,12 +51,11 @@
               "RelativeToolTip": "Models\\Cliente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T03:03:20.371Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T03:03:20.371Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ClientesController.cs",
               "DocumentMoniker": "C:\\MAMP\\htdocs\\ClientesApiMvc\\ApiCobranzas\\Controllers\\ClientesController.cs",
               "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
@@ -64,12 +63,11 @@
               "RelativeToolTip": "Controllers\\ClientesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T03:03:08.097Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T03:03:08.097Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\MAMP\\htdocs\\ClientesApiMvc\\ApiCobranzas\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T02:22:16.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T02:22:16.001Z"
             }
           ]
         }
